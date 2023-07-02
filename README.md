@@ -1,1 +1,1 @@
-Hello world! I mant to show my first progect on bootstrap. Have a nice day! # lili_bootsrap
+Hello world! I want to show my first project on bootstrap. Have a nice day! # lili_bootsrap
