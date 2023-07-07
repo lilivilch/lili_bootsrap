@@ -1,1 +1,6 @@
-Hello world! I mant to show my first progect on bootstrap. Have a nice day! # lili_bootsrap
+#Сайт написанный при помощи bootstrap5
+
+_Сайт носит только ознакомительный характер, вся информация представленная на сайте не актуальна и не достоверна._
+
+[Ссылка на сайт](lilivilch.github.io/lili_bootsrap)
+
